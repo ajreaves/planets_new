@@ -1,8 +1,4 @@
 cold and dry, but everything is in color
 The two moons may be a problem for Wolfman
 but the Mummy will apreciate the lack of humidity
-<<<<<<< HEAD
-=======
-making more changes
 
->>>>>>> c0e824c2b4165b9793b4d3615258e3fbae98ffed
